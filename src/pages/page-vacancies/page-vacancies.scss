@@ -1,0 +1,21 @@
+.page-vacancies {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+
+  .page-vacancies__list {
+    width: 60%;
+    padding: 10px;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  .page-vacancies {
+    .page-vacancies__list {
+      width: 100%;
+      height: 94vh;
+      overflow-y: auto;
+      overflow-x: hidden;
+    }
+  }
+}

@@ -1,0 +1,78 @@
+.vacancy {
+  background-color: #e4e9f4;
+  padding-left: 25px;
+  border-radius: 20px;
+  margin-top: 10px;
+  box-sizing: border-box;
+  display: flex;
+  position: relative;
+  height: 79px;
+  color: #545454;
+  box-shadow: 0px 1px 5px 0px;
+
+  .vacancy__first-information {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .vacancy__title {
+    z-index: 1;
+    font-size: 18px;
+    padding: 0;
+    margin: 0;
+  }
+
+  .vacancy__sub-title {
+    z-index: 1;
+    font-size: 16px;
+    padding: 0;
+    margin: 0;
+  }
+
+  .vacancy__description {
+    z-index: 1;
+    font-size: 15px;
+    padding: 0;
+    margin: 0;
+  }
+
+  .vacancy__data {
+    z-index: 1;
+    font-size: 14px;
+    padding: 0;
+    margin: 0;
+  }
+
+  .vacancy__button {
+    position: absolute;
+    right: 20px;
+    top: 20px;
+  }
+
+  .vacancy__btn-visit:hover {
+    transition: 0.5s;
+    padding-right: 30px;
+    background-color: #7b9cac;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  .vacancy {
+    background-color: #e4e9f4;
+    border-radius: 20px;
+    margin-top: 20px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    height: auto;
+    color: #545454;
+    box-shadow: 0px 1px 5px 0px;
+    width: 100%;
+    padding: 10px;
+
+    & .vacancy__button {
+      position: initial;
+    }
+  }
+}

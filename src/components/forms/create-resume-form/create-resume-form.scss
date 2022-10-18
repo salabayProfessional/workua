@@ -1,0 +1,14 @@
+.resume-form {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  height: 500px;
+  justify-content: space-between;
+  width: 40%;
+}
+
+@media screen and (max-width: 450px) {
+  .resume-form {
+    width: 80%;
+  }
+}

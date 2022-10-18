@@ -1,0 +1,22 @@
+.header-app__link {
+  text-decoration: none;
+  color: rgb(241, 241, 241);
+  font-family: "Montserrat", sans-serif;
+  font-weight: 300;
+  margin-left: 20px;
+}
+
+@media screen and (max-width: 450px) {
+  .header-app__link {
+    color: black;
+  }
+}
+
+.phone-menu-version {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  width: 80vw;
+  height: 30vh;
+  justify-content: space-around;
+}

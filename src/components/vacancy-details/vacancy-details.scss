@@ -1,0 +1,68 @@
+.vacancy-details {
+  width: 60%;
+  height: auto;
+  background-color: #f6f6f6;
+  margin-left: 20%;
+  margin-right: 20%;
+  box-shadow: 5px 6px 12px 0px;
+  color: #665959;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+
+  & .title {
+    color: slategray;
+  }
+
+  & .sub-title {
+    color: slategray;
+  }
+
+  & .vacancy-details__salary {
+    color: white;
+    padding: 5px;
+    border-radius: 0px 20px 20px 0px;
+    background-color: #009688;
+    width: 100px;
+    margin-top: 10px;
+  }
+
+  & .vacancy-details__date {
+    color: white;
+    padding: 5px;
+    border-radius: 0px 20px 20px 0px;
+    background-color: #051a49;
+    width: 150px;
+    margin-top: 10px;
+  }
+
+  .list-details {
+    display: flex;
+    justify-content: space-around;
+  }
+
+  & .group-btn {
+    display: flex;
+    justify-content: space-around;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  .vacancy-details {
+    width: 100%;
+    color: #665959;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+      Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    padding: 10px;
+    border-radius: 20px;
+    margin: 0;
+    margin-top: 20px;
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "vacancies": [
+    {
+      "id": "vacancy-1",
+      "title": "IT junior",
+      "describe": "developer 600$ salary, React, JS, SASS, HTML",
+      "salary": "600$",
+      "date": "31.01.2022",
+      "currency": "dollar",
+      "available": true,
+      "city": "kharkiv",
+      "category": "computer Science"
+    },
+    {
+      "id": "vacancy-2",
+      "title": "IT middle",
+      "describe": "developer 1400$ salary, React, JS, SASS, HTML",
+      "salary": "1400$",
+      "date": "31.01.2022",
+      "currency": "dollar",
+      "available": true,
+      "city": "kharkiv",
+      "category": "computer Science"
+    },
+    {
+      "id": "vacancy-3",
+      "title": "IT senior",
+      "describe": "developer 6000$ salary, React, JS, SASS, HTML, NodeJS,",
+      "salary": "3600$",
+      "date": "31.01.2022",
+      "currency": "dollar",
+      "available": true,
+      "city": "kharkiv",
+      "category": "computer Science"
+    },
+    {
+      "id": "vacancy-4",
+      "title": "IT middle",
+      "describe": "developer 1400$ salary, React, JS, SASS, HTML",
+      "salary": "1400$",
+      "date": "31.01.2022",
+      "currency": "dollar",
+      "available": true,
+      "city": "kharkiv",
+      "category": "computer Science"
+    },
+    {
+      "id": "vacancy-5",
+      "title": "IT senior",
+      "describe": "developer 6000$ salary, React, JS, SASS, HTML, NodeJS,",
+      "salary": "3600$",
+      "date": "31.01.2022",
+      "currency": "dollar",
+      "available": true,
+      "city": "kharkiv",
+      "category": "computer Science"
+    },
+    {
+      "id": "vacancy-6",
+      "title": "IT junior",
+      "describe": "developer 600$ salary, React, JS, SASS, HTML",
+      "salary": "600$",
+      "date": "31.01.2022",
+      "currency": "dollar",
+      "available": true,
+      "city": "lviv",
+      "category": "computer Science"
+    },
+    {
+      "id": "vacancy-7",
+      "title": "IT middle",
+      "describe": "developer 1400$ salary, React, JS, SASS, HTML",
+      "salary": "1400$",
+      "date": "31.01.2022",
+      "currency": "dollar",
+      "available": true,
+      "city": "lviv",
+      "category": "computer Science"
+    },
+    {
+      "id": "vacancy-8",
+      "title": "IT senior",
+      "describe": "developer 6000$ salary, React, JS, SASS, HTML, NodeJS,",
+      "salary": "3600$",
+      "date": "31.01.2022",
+      "currency": "dollar",
+      "available": true,
+      "city": "lviv",
+      "category": "computer Science"
+    },
+    {
+      "id": "vacancy-9",
+      "title": "IT injener",
+      "describe": "developer 6000$ salary, React, JS, SASS, HTML, Angular, NodeJS,",
+      "salary": "5000$",
+      "date": "31.01.2022",
+      "currency": "dollar",
+      "available": true,
+      "city": "lviv",
+      "category": "computer Science"
+    },
+    {
+      "id": "l9czgzrf7ih0uh15f17",
+      "title": "Back end dev Sunior",
+      "describe": "You will work as a slave",
+      "salary": "670",
+      "date": "21.01.2022",
+      "currency": "dollar",
+      "available": true,
+      "city": "lviv",
+      "category": "builder"
+    },
+    {
+      "id": "l9czid3m4h3tjxay0vr",
+      "title": "Builder",
+      "describe": "You will work as a director",
+      "salary": "40000",
+      "date": "21.01.2022",
+      "currency": "dollar",
+      "available": true,
+      "city": "lviv",
+      "category": "computer Science"
+    }
+  ]
+}
